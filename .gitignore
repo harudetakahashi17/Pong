@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Library/PackageCache/com.unity.2d.animation@3.2.3/Editor/Assets/LayoutOverlay
+/Library/PackageCache
+/Library
+/ProjectSettings
+/Temp
